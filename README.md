@@ -11,10 +11,15 @@ QuickStay is a modern hotel booking platform built with React + Vite and styled 
 ✨ Features
 
 🔐 User Authentication – Secure login & account management
+
 🏘️ Room Listings – Browse through available hotels & rooms
+
 🔎 Search & Filters – Find hotels by destination, dates, and guests
+
 📅 Booking System – Book stays with check-in & check-out support
+
 📊 Admin Dashboard – Manage rooms, bookings, and user details
+
 🎨 Responsive UI – Clean, modern design with prebuilt components
 
 
