@@ -23,22 +23,16 @@ QuickStay is a modern hotel booking platform built with React + Vite and styled 
 🎨 Responsive UI – Clean, modern design with prebuilt components
 
 
+
 🛠️ Tech Stack
 
 Frontend: React + Vite
+
 Styling: TailwindCSS + Prebuilt UI components
-State Management: React Hooks / Context API (if applicable)
-Routing: React Router (if used)
 
-📂 Project Structure
+Routing: React Router 
 
-client/
- ├── assets/         # Static images and assets
- ├── components/     # Reusable UI components
- ├── pages/          # App pages (Home, Hotels, Dashboard, etc.)
- ├── App.jsx         # Root component
- ├── main.jsx        # Entry point
- └── ...
+
 
 ⚡ Getting Started
 
