@@ -1,4 +1,4 @@
-🏨 QuickStay – Hotel Booking Platform
+# 🏨 QuickStay – Hotel Booking Platform
 
 🌐 Live Demo
 
@@ -37,16 +37,17 @@ Routing: React Router
 ⚡ Getting Started
 
 Installation
-# Clone the repository
+
+Clone the repository
 git clone https://github.com/Ankit-y45h/Hotel-Booking.git
 
-# Navigate into client folder
+Navigate into client folder
 cd Hotel-Booking/client
 
-# Install dependencies
+Install dependencies
 npm install
 
-# Start development server
+Start development server
 npm run dev
 
 
